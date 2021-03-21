@@ -6,6 +6,35 @@
 	padding-bottom:5px;
     
 }
+#cont{
+	background-color:white;
+}
+.try{
+	margin-top:60px;
+	margin-bottom:45px;
+	padding-top:10px;
+	padding-bottom:15px;
+}
+.subhead{
+	color:brown;
+	font-family:palatino;
+	font-size:30px;
+	margin-top:5px;
+	margin-bottom:5px;
+	padding-top:10px;
+	padding-bottom:15px;
+    
+	
+}
+
+	
+.head{
+	font-size:44px;
+	font-family:times new roman;
+	color:#001c99;
+	padding-bottom:65;
+	padding-top:65;
+}
 
 .testimonials{
 	background-color: #f27f68;
