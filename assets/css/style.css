@@ -6,6 +6,11 @@
 	padding-bottom:5px;
     
 }
+@media screen and (max-width: 880px) {
+  .image{
+	border-radius:60%;
+}
+}
 #cont{
 	background-color:white;
 }
