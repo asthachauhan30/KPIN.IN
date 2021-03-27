@@ -6,6 +6,17 @@
 	padding-bottom:5px;
     
 }
+.buton{
+
+	margin-left:50px;
+	margin-top:15px;
+	margin-bottom:2px;
+	padding-top:8px;
+	padding-bottom:5px;
+	
+}
+
+
 @media screen and (max-width: 880px) {
   .image{
 	border-radius:60%;
